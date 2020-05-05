@@ -1,0 +1,1458 @@
+{
+    "ALGO_EXM": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.001",
+        "max_price": "10000",
+        "max_amount": "50000000",
+        "min_amount": "1"
+    },
+    "ALGO_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "50",
+        "min_amount": "0.000001"
+    },
+    "ATOM_EXM": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "200"
+    },
+    "ATOM_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "BTC_USD": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "30000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "BTC_RUB": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "2000000",
+        "max_amount": "50000000",
+        "min_amount": "10"
+    },
+    "BTC_EUR": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "30000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "BTC_UAH": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "15000000",
+        "max_amount": "15000000",
+        "min_amount": "10"
+    },
+    "BTC_GBP": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "30000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "ETH_GBP": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "XRP_GBP": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.001"
+    },
+    "USDT_GBP": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.5",
+        "max_price": "10",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "BTC_PLN": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "20000000",
+        "max_amount": "2000000",
+        "min_amount": "50"
+    },
+    "BTC_TRY": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1",
+        "max_price": "800000",
+        "max_amount": "6000000",
+        "min_amount": "40"
+    },
+    "BTC_KZT": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "1000",
+        "max_price": "12000000",
+        "max_amount": "100000000",
+        "min_amount": "1000"
+    },
+    "BTC_USDT": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "0.01",
+        "max_price": "30000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "ETH_BTC": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ETH_USD": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "ETH_RUB": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "150"
+    },
+    "XRP_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.0000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "XRP_USD": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.001"
+    },
+    "XRP_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "50000000",
+        "min_amount": "0.01"
+    },
+    "ADA_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ADA_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.001"
+    },
+    "ADA_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "ALGO_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "ALGO_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.000001",
+        "max_price": "10000",
+        "max_amount": "50000000",
+        "min_amount": "1"
+    },
+    "ALGO_EUR": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "ATOM_USD": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "ATOM_EUR": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "BCH_USD": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.00000001",
+        "max_price": "30000",
+        "max_amount": "500000",
+        "min_amount": "0.0001"
+    },
+    "BCH_RUB": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.00000001",
+        "max_price": "2000000",
+        "max_amount": "50000000",
+        "min_amount": "0.0001"
+    },
+    "BCH_EUR": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "300000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "BCH_UAH": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.1",
+        "max_price": "30000",
+        "max_amount": "15000000",
+        "min_amount": "10"
+    },
+    "BCH_BTC": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.00000001",
+        "max_price": "5",
+        "max_amount": "100",
+        "min_amount": "0.0001"
+    },
+    "BCH_ETH": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.0000001",
+        "max_price": "200",
+        "max_amount": "5000",
+        "min_amount": "0.0001"
+    },
+    "BCH_USDT": {
+        "min_quantity": "0.003",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "5000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "BTG_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "100000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "BTG_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "100000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "BTG_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "100000",
+        "min_price": "0.0001",
+        "max_price": "100",
+        "max_amount": "5000",
+        "min_amount": "0.01"
+    },
+    "BTT_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "100",
+        "min_amount": "0.000001"
+    },
+    "BTT_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "500000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "100",
+        "min_amount": "0.000001"
+    },
+    "BTT_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000000",
+        "min_price": "0.00000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "CRON_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "100000",
+        "min_price": "0.0000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "CRON_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "100000",
+        "min_price": "0.0000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.00001"
+    },
+    "CRON_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "100000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.001"
+    },
+    "CRON_EXM": {
+        "min_quantity": "1",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1000",
+        "max_amount": "100000",
+        "min_amount": "0.01"
+    },
+    "DAI_USD": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "DAI_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "30000000",
+        "min_amount": "0.5"
+    },
+    "DAI_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.0000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "DAI_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.0001"
+    },
+    "DASH_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "DASH_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "150"
+    },
+    "DASH_UAH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "200000",
+        "max_amount": "15000000",
+        "min_amount": "10"
+    },
+    "DASH_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.0001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "DASH_USDT": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "5000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "DCR_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "50000",
+        "min_price": "0.00001",
+        "max_price": "100000",
+        "max_amount": "3000000",
+        "min_amount": "0.5"
+    },
+    "DCR_UAH": {
+        "min_quantity": "0.01",
+        "max_quantity": "50000",
+        "min_price": "0.00001",
+        "max_price": "100000",
+        "max_amount": "1000000",
+        "min_amount": "0.25"
+    },
+    "DCR_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "50000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "DOGE_USD": {
+        "min_quantity": "100",
+        "max_quantity": "500000000",
+        "min_price": "0.0000001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "DOGE_BTC": {
+        "min_quantity": "100",
+        "max_quantity": "500000000",
+        "min_price": "0.0000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0001"
+    },
+    "EOS_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "EOS_EUR": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "EOS_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ETC_USD": {
+        "min_quantity": "0.2",
+        "max_quantity": "100000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "ETC_RUB": {
+        "min_quantity": "0.2",
+        "max_quantity": "100000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "50000000",
+        "min_amount": "0.01"
+    },
+    "ETC_BTC": {
+        "min_quantity": "0.2",
+        "max_quantity": "100000",
+        "min_price": "0.0001",
+        "max_price": "0.5",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ETH_EUR": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "ETH_UAH": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "1000000",
+        "max_amount": "15000000",
+        "min_amount": "90"
+    },
+    "ETH_PLN": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "2000000",
+        "min_amount": "50"
+    },
+    "ETH_TRY": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.1",
+        "max_price": "80000",
+        "max_amount": "6000000",
+        "min_amount": "10"
+    },
+    "ETH_KZT": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "4",
+        "max_price": "40000000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "ETH_USDT": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "ETH_LTC": {
+        "min_quantity": "0.001",
+        "max_quantity": "5000",
+        "min_price": "0.00000001",
+        "max_price": "100000",
+        "max_amount": "100000",
+        "min_amount": "0.05"
+    },
+    "ETZ_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "10",
+        "min_amount": "0.0001"
+    },
+    "ETZ_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.00000001",
+        "max_price": "100",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ETZ_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "1000",
+        "min_amount": "0.01"
+    },
+    "EXM_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1000",
+        "max_amount": "100000",
+        "min_amount": "0.01"
+    },
+    "EXM_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "5000",
+        "min_amount": "0.0001"
+    },
+    "GAS_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "50000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "GAS_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "GNT_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "GNT_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.01"
+    },
+    "GUSD_USD": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.1",
+        "max_price": "10",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "GUSD_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "1000",
+        "max_amount": "50000000",
+        "min_amount": "10"
+    },
+    "GUSD_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0015"
+    },
+    "HP_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "HB_BTC": {
+        "min_quantity": "10",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.000001"
+    },
+    "LSK_USD": {
+        "min_quantity": "0.1",
+        "max_quantity": "500000",
+        "min_price": "0.1",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "LSK_RUB": {
+        "min_quantity": "0.1",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "0.5"
+    },
+    "LSK_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.0000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0015"
+    },
+    "LTC_USD": {
+        "min_quantity": "0.05",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "LTC_RUB": {
+        "min_quantity": "0.05",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "150"
+    },
+    "LTC_EUR": {
+        "min_quantity": "0.05",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "LTC_UAH": {
+        "min_quantity": "0.05",
+        "max_quantity": "10000",
+        "min_price": "0.01",
+        "max_price": "300000",
+        "max_amount": "18000000",
+        "min_amount": "5"
+    },
+    "LTC_BTC": {
+        "min_quantity": "0.05",
+        "max_quantity": "10000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "MKR_BTC": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "0.0001",
+        "max_price": "100",
+        "max_amount": "100",
+        "min_amount": "0.000001"
+    },
+    "MKR_DAI": {
+        "min_quantity": "0.0001",
+        "max_quantity": "1000",
+        "min_price": "0.5",
+        "max_price": "500000",
+        "max_amount": "500000",
+        "min_amount": "0.005"
+    },
+    "MNC_USD": {
+        "min_quantity": "10",
+        "max_quantity": "500000000",
+        "min_price": "0.000001",
+        "max_price": "10000",
+        "max_amount": "100000",
+        "min_amount": "0.01"
+    },
+    "MNC_BTC": {
+        "min_quantity": "10",
+        "max_quantity": "500000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.000001"
+    },
+    "MNC_ETH": {
+        "min_quantity": "10",
+        "max_quantity": "500000000",
+        "min_price": "0.0000001",
+        "max_price": "10",
+        "max_amount": "1000",
+        "min_amount": "0.00001"
+    },
+    "MNX_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "MNX_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "MNX_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.01"
+    },
+    "NEO_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "100000",
+        "min_price": "0.01",
+        "max_price": "50000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "NEO_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "100000",
+        "min_price": "0.001",
+        "max_price": "1500000",
+        "max_amount": "50000000",
+        "min_amount": "50"
+    },
+    "NEO_BTC": {
+        "min_quantity": "0.1",
+        "max_quantity": "100000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "OMG_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "OMG_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "OMG_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.01"
+    },
+    "ONG_EXM": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "15000000",
+        "min_amount": "100"
+    },
+    "ONG_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "10",
+        "min_amount": "0.00001"
+    },
+    "ONG_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "250000",
+        "min_amount": "100"
+    },
+    "ONG_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "1000000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "6000000",
+        "min_amount": "50"
+    },
+    "ONT_EXM": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "15000000",
+        "min_amount": "200"
+    },
+    "ONT_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "10",
+        "min_amount": "0.00001"
+    },
+    "ONT_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "6000000",
+        "min_amount": "100"
+    },
+    "ONT_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "100000",
+        "max_amount": "250000",
+        "min_amount": "200"
+    },
+    "PTI_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.00000001",
+        "max_price": "600000",
+        "max_amount": "600000",
+        "min_amount": "10"
+    },
+    "PTI_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "10",
+        "min_amount": "0.000001"
+    },
+    "PTI_EOS": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.0000001",
+        "max_price": "5000",
+        "max_amount": "20000",
+        "min_amount": "0.01"
+    },
+    "PTI_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.000001",
+        "max_price": "10000",
+        "max_amount": "100000",
+        "min_amount": "0.01"
+    },
+    "QTUM_USD": {
+        "min_quantity": "0.1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "10000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "QTUM_BTC": {
+        "min_quantity": "0.1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0001"
+    },
+    "QTUM_ETH": {
+        "min_quantity": "0.1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "100",
+        "max_amount": "5000",
+        "min_amount": "0.001"
+    },
+    "ROOBEE_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "SMART_USD": {
+        "min_quantity": "10",
+        "max_quantity": "100000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "SMART_RUB": {
+        "min_quantity": "10",
+        "max_quantity": "100000000",
+        "min_price": "0.0001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "10"
+    },
+    "SMART_EUR": {
+        "min_quantity": "10",
+        "max_quantity": "100000000",
+        "min_price": "0.000001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "1"
+    },
+    "SMART_BTC": {
+        "min_quantity": "10",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "TRX_USD": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "TRX_EUR": {
+        "min_quantity": "0.01",
+        "max_quantity": "50000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "TRX_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.000001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "0.1"
+    },
+    "TRX_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.000001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "0.1"
+    },
+    "TRX_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "50000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "USDC_USD": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "USDC_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0001"
+    },
+    "USDC_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.0000001",
+        "max_price": "100",
+        "max_amount": "1000",
+        "min_amount": "0.001"
+    },
+    "USDC_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "3"
+    },
+    "USDT_USD": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.5",
+        "max_price": "10",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "USDT_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "1000",
+        "max_amount": "50000000",
+        "min_amount": "10"
+    },
+    "USDT_EUR": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "0.1",
+        "max_price": "10",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "USDT_UAH": {
+        "min_quantity": "0.01",
+        "max_quantity": "500000",
+        "min_price": "1",
+        "max_price": "3000",
+        "max_amount": "15000000",
+        "min_amount": "2"
+    },
+    "USDT_KZT": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "200",
+        "max_price": "4000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "VLX_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "WAVES_USD": {
+        "min_quantity": "0.5",
+        "max_quantity": "500000",
+        "min_price": "0.001",
+        "max_price": "3500",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "WAVES_RUB": {
+        "min_quantity": "0.5",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "10000",
+        "max_amount": "50000000",
+        "min_amount": "1"
+    },
+    "WAVES_BTC": {
+        "min_quantity": "0.5",
+        "max_quantity": "500000",
+        "min_price": "0.000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.0001"
+    },
+    "WAVES_ETH": {
+        "min_quantity": "0.5",
+        "max_quantity": "500000",
+        "min_price": "0.00001",
+        "max_price": "30",
+        "max_amount": "3500",
+        "min_amount": "0.0035"
+    },
+    "XEM_USD": {
+        "min_quantity": "10",
+        "max_quantity": "10000000",
+        "min_price": "0.00001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "XEM_EUR": {
+        "min_quantity": "10",
+        "max_quantity": "10000000",
+        "min_price": "0.00001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "XEM_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.0001",
+        "max_price": "30000",
+        "max_amount": "15000000",
+        "min_amount": "10"
+    },
+    "XEM_BTC": {
+        "min_quantity": "10",
+        "max_quantity": "10000000",
+        "min_price": "0.0000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.00015"
+    },
+    "XLM_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "5000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.01"
+    },
+    "XLM_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "5000000",
+        "min_price": "0.00001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "0.1"
+    },
+    "XLM_TRY": {
+        "min_quantity": "0.01",
+        "max_quantity": "5000000",
+        "min_price": "0.00001",
+        "max_price": "100000",
+        "max_amount": "6000000",
+        "min_amount": "0.1"
+    },
+    "XLM_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "XMR_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "XMR_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "600000",
+        "max_amount": "16000000",
+        "min_amount": "10"
+    },
+    "XMR_EUR": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "XMR_UAH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "300000",
+        "max_amount": "16000000",
+        "min_amount": "5"
+    },
+    "XMR_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.0001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "XMR_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.00000001",
+        "max_price": "100",
+        "max_amount": "5000",
+        "min_amount": "0.001"
+    },
+    "XRP_EUR": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.001"
+    },
+    "XRP_TRY": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "6000000",
+        "min_amount": "0.01"
+    },
+    "XRP_UAH": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "15000000",
+        "min_amount": "0.01"
+    },
+    "XRP_USDT": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.001"
+    },
+    "XRP_ETH": {
+        "min_quantity": "1",
+        "max_quantity": "5000000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.00001"
+    },
+    "XTZ_USD": {
+        "min_quantity": "0.1",
+        "max_quantity": "100000",
+        "min_price": "0.0001",
+        "max_price": "1000",
+        "max_amount": "100000",
+        "min_amount": "0.1"
+    },
+    "XTZ_RUB": {
+        "min_quantity": "0.1",
+        "max_quantity": "100000",
+        "min_price": "0.00001",
+        "max_price": "100000",
+        "max_amount": "500000",
+        "min_amount": "0.5"
+    },
+    "XTZ_BTC": {
+        "min_quantity": "0.1",
+        "max_quantity": "100000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "10",
+        "min_amount": "0.00001"
+    },
+    "XTZ_ETH": {
+        "min_quantity": "0.1",
+        "max_quantity": "100000",
+        "min_price": "0.0000001",
+        "max_price": "10",
+        "max_amount": "1000",
+        "min_amount": "0.0001"
+    },
+    "ZEC_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "5000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "ZEC_RUB": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "100000",
+        "max_amount": "50000000",
+        "min_amount": "0.1"
+    },
+    "ZEC_EUR": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.001",
+        "max_price": "5000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "ZEC_BTC": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000",
+        "min_price": "0.00001",
+        "max_price": "10",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ZRX_USD": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.00001",
+        "max_price": "1000",
+        "max_amount": "500000",
+        "min_amount": "0.1"
+    },
+    "ZRX_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "100",
+        "min_amount": "0.001"
+    },
+    "ZRX_ETH": {
+        "min_quantity": "0.01",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "10",
+        "max_amount": "5000",
+        "min_amount": "0.01"
+    },
+    "ZAG_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "10000000",
+        "min_price": "0.00000001",
+        "max_price": "0.1",
+        "max_amount": "100",
+        "min_amount": "0.00001"
+    },
+    "USD_RUB": {
+        "min_quantity": "1",
+        "max_quantity": "500000",
+        "min_price": "0.01",
+        "max_price": "1000",
+        "max_amount": "50000000",
+        "min_amount": "10"
+    },
+    "EXM_BTC": {
+        "min_quantity": "1",
+        "max_quantity": "100000000",
+        "min_price": "0.00000001",
+        "max_price": "1",
+        "max_amount": "1",
+        "min_amount": "0.0000001"
+    }
+}
