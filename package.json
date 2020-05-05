@@ -7,7 +7,11 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node ./src/app.js"
     },
-    "keywords": [],
+    "keywords": [
+        "node",
+        "exmo",
+        "trading"
+    ],
     "author": "",
     "license": "ISC",
     "dependencies": {
@@ -16,6 +20,7 @@
         "yargs": "^15.3.1"
     },
     "devDependencies": {
+        "commitizen": "4.1.2",
         "cz-conventional-changelog": "3.2.0",
         "eslint": "6.8.0",
         "eslint-config-airbnb": "18.1.0",
